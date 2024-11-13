@@ -6,7 +6,7 @@ const spec = {
     "executable": "ActionTaimanin.exe",
     "logo": "actiontaimanin.png",
     "mergeMods": true,
-    "modPath": "ActionTaimanin_Data",
+    "modPath": "",
     "modPathIsRelative": true,
     "requiredFiles": [
       "ActionTaimanin.exe"
