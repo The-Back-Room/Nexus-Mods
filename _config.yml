@@ -60,6 +60,8 @@ search:
 pages:
 - 404.md
 - index.md
+- extensions.md
+- mods.md
 
 nav_external_links:
 - title: The Back Room
