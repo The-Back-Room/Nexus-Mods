@@ -1,3 +1,9 @@
+---
+layout: default
+title: Extensions
+parent: Nexus Mods
+permalink: /extensions
+---
 
 | Name | Description | Download |
 | --- | --- | --- |
