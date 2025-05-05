@@ -2,12 +2,5 @@
 published: false
 ---
 
-# Nexus Mods
-A collection of mods and extensions for Vortex Mod Manager
-
-
-| Name | Description | Type | Download |
-| --- | --- | --- | --- |
-| Action Taimanin Support | Add support for Action Taimanin to Vortex Mod Manager | Extension | [Nexus Mods][546] |
-
-[546]: https://www.nexusmods.com/site/mods/546
+<img align="center" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyXkakjDquJwkO0xEd9Aw7XRdWKn0yeUovfQ&s" /></br />
+<p align="center">A collection of mods and extensions for <a href="https://www.nexusmods.com/about/vortex" target="_blank">Vortex Mod Manager</a></p>
