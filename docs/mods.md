@@ -2,6 +2,8 @@
 layout: default
 title: Mods
 parent: Nexus Mods
+nav_order: 2
+has_toc: false
 permalink: /mods
 ---
 

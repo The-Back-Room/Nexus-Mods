@@ -2,6 +2,8 @@
 layout: default
 title: Extensions
 parent: Nexus Mods
+nav_order: 1
+has_toc: false
 permalink: /extensions
 ---
 
