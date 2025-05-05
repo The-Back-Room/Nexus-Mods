@@ -1,14 +1,17 @@
 ---
 layout: default
 title: Mods
-parent: Nexus Mods
+parent: Vortex Mods
 nav_order: 2
 has_toc: false
 permalink: /mods
 ---
 
-| Name | Description | Download |
-| --- | --- | --- |
-| Action Taimanin Nude Patch | Nude mod for Action Taimanin | [Nexus Mods][game_id=7680] |
-
-[game_id=7680]: https://www.nexusmods.com/mods/2?game_id=7680
+<div class="card">
+  <h2 style="text-align:center" class="text-delta">Action Taimanin Nude Patch</h2>
+  <a href="https://www.nexusmods.com/mods/2?game_id=7680" target="_blank">
+    <img src="https://staticdelivery.nexusmods.com/mods/7680/images/headers/2_1746408573.jpg" /></a>
+  <div class="container">
+    <p style="text-align:center" class="text-delta">Nude mod for Action Taimanin</p>
+  </div>
+</div>
