@@ -64,7 +64,7 @@ pages:
 - mods.md
 
 nav_external_links:
-- title: The Back Room
+- title: Home
   url: https://the-back-room.github.io/
-  hide_json: false
+  hide_json: true
   open_in_new_tab: false
