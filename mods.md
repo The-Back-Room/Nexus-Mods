@@ -12,4 +12,4 @@ permalink: /mods
 [game_id=7680]: https://www.nexusmods.com/mods/2?game_id=7680
 
 
-**NOTICE**: *This page is currently under construction. Unil we have finished construction it will remain in base table mode.*
+**NOTICE**: *This page is currently under construction. Unil we have finished construction it will remain in basic table format.*
